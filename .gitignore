@@ -1,0 +1,7 @@
+Include
+Scripts
+Lib
+main.py
+pyvenv.cfg
+__pycache__
+.dist
